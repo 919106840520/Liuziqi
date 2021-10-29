@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/0f53fbc3176aeab8a9f2c49ef116bf12.jpg</file>
+        <file>resource/7fbdffb9d6cb1706e86a97f6f5b058d2.jpeg</file>
+        <file>resource/0079e8315b5797124c8ae7c040558a2c.jpg</file>
+        <file>resource/2373810b4648e15f36d4e793ebac840a.jpg</file>
+        <file>resource/Liuziqi.jpg</file>
+        <file>resource/title.jpg</file>
+    </qresource>
+</RCC>
